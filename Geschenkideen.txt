@@ -1,4 +1,7 @@
 Taschenrechner
 Wasserflasche
 NUCi
+Kuschelbär
+USB-Stick
+
 
